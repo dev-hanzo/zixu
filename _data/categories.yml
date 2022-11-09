@@ -1,0 +1,21 @@
+- ref: Study-notes
+  name:
+    default: 'Study notes'
+    en: 'Study notes'
+    zh: 学习笔记
+
+- ref: Database
+  name:
+    default: 'Database systems'
+    en: 'Database systems'
+    zh: 数据库系统
+
+- ref: Misc
+  name:
+    default: Misc
+    en: Misc
+    zh: 杂文
+
+- ref: Jekyll
+  name:
+    default: Jekyll
