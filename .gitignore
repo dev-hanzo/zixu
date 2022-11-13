@@ -1,12 +1,7 @@
+# ignore all logs
+.vscode/
+public/
+*.log
+.env
+*.sh
 .DS_Store
-
-# Compiled site
-_site
-
-# Caches
-.sass-cache
-.jekyll-cache
-
-# Bundler
-.bundle/
-vendor/
